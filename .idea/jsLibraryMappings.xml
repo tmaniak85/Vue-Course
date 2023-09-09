@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/007/app.js" libraries="{vue}" />
+    <file url="file://$PROJECT_DIR$/014/app.js" libraries="{vue}" />
+    <file url="file://$PROJECT_DIR$/021/app.js" libraries="{vue}" />
+    <file url="file://$PROJECT_DIR$/027/app.js" libraries="{vue}" />
+    <file url="file://$PROJECT_DIR$/033/app.js" libraries="{vue}" />
+    <file url="file://$PROJECT_DIR$/ex1/app.js" libraries="{vue}" />
+    <file url="file://$PROJECT_DIR$/ex2/app.js" libraries="{vue}" />
+    <file url="file://$PROJECT_DIR$/ex3/app.js" libraries="{vue}" />
+    <file url="file://$PROJECT_DIR$/ex4/app.js" libraries="{vue}" />
+  </component>
+</project>
